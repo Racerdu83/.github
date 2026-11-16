@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Industrial engineering and cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://racer83.duckdns.org](https://racer83.duckdns.org)
+- 👨‍💻 All of my projects are available at [https://racer83.duckdns.org](https://racer83.duckdns.org) (not update bc i dont have time for that now)
 
 - 📫 How to reach me **ronanfuzellier@proton.me**
 
